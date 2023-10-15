@@ -1,4 +1,4 @@
-# InternSavy Project E-Learning Website
+# InternSay Project E-Learning Platform
 
 
 # ["Studious - best online education provider" E-Learning Website](https://icy-river-0f28d5100.3.azurestaticapps.net)
@@ -36,7 +36,7 @@ Counting number statistics
 Landing page included
 Working contact form
 
-Primary Azure Technology : Static Web Apps, Web Apps
+
 
 # Screenshot:-
 
