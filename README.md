@@ -1,4 +1,4 @@
-# Project 1
+# InternSavy Project E-Learning Website
 
 
 # ["Studious - best online education provider" E-Learning Website](https://icy-river-0f28d5100.3.azurestaticapps.net)
