@@ -1,7 +1,7 @@
 # Project 1
 
 
-# ["Studious - best online education provider" website using microsoft technology](https://icy-river-0f28d5100.3.azurestaticapps.net)
+# ["Studious - best online education provider" E-Learning Website](https://icy-river-0f28d5100.3.azurestaticapps.net)
 
 Project Link:- https://icy-river-0f28d5100.3.azurestaticapps.net
 
